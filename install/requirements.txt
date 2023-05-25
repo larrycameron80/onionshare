@@ -18,7 +18,7 @@ pycryptodome==3.7.2
 PyQt5==5.11.3
 PyQt5-sip==4.19.13
 PySocks==1.6.8
-requests==2.20.1
+requests==2.31.0
 six==1.11.0
 stem==1.7.0
 urllib3==1.24.1
